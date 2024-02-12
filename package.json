@@ -1,0 +1,29 @@
+{
+  "name": "rc-color",
+  "version": "1.0.0",
+  "description": "Grab the color palette from an image using just Javascript in the browser and in Node",
+  "main": "./src/rc-color.js",
+  "keywords": [
+    "color",
+    "dominant-color",
+    "image-color",
+    "rc-color",
+    "node",
+    "node.js"
+  ],
+  "author": "Twinkle069",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Twinkle069/rc-color.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Twinkle069/rc-color/issues"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.45"
+  },
+  "devDependencies": {
+    "chalk": "^2.4.1"
+  }
+}
